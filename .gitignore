@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+
+# Don't accidentally upload plain text passwords.
+converted_file.csv
+
+
